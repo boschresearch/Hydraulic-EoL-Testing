@@ -16,4 +16,4 @@ Each sample contains a time-series with 11 channels (data collected at 100 Hz fr
 3. State Label (integer-encoded, meaning not further specified for confidentality reasons)
 
 # License 
-The dataset created for the research located in the directory data are licensed under a [Creative Commons Attribution 4.0 International License] (https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0) .
+The dataset created for the research located in the directory data are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0) .
