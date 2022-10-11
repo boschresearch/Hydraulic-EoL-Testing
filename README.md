@@ -3,12 +3,12 @@ Multivariate Time Series Data usable for Time Series Segmentation and Time Serie
 
 Structure of Data-Folder-System:
 
-Data/
-  Generation/                  Corresponding Generation. We have data from 2 generations (Generation A, Generation B)
-    control type/              Coresponding pump control type. We have 3 different control types (Direct Control (DC), Proportional Control (PC), Speed-based Control (SC) )
-      version/                 Coresponding version of specific control type. Only relevant for Generation A DC-pumps, where we have 3 version (V35, V36, V38)
-        zip-file:              zip file containing all samples of the specific version. One Sample has the following name format:
-                                    [Generation]+"_"+[Control Type]+"_"+[Version]+"_"+[ID]+".csv"
+Data/<br />
+  Generation/                  Corresponding Generation. We have data from 2 generations (Generation A, Generation B)<br />
+    control type/              Coresponding pump control type. We have 3 different control types (Direct Control (DC), Proportional Control (PC), Speed-based Control (SC) )<br />
+      version/                 Coresponding version of specific control type. Only relevant for Generation A DC-pumps, where we have 3 version (V35, V36, V38)<br />
+        zip-file:              zip file containing all samples of the specific version. One Sample has the following name format:<br />
+                                    [Generation]+"_"+[Control Type]+"_"+[Version]+"_"+[ID]+".csv"<br />
                                     
                                     
  
