@@ -15,3 +15,7 @@ Each sample contains a time-series with 11 channels (data collected at 100 Hz fr
 2. Values of Sensors 1-9 (standard-score normalized, no units for confidentality reasons)
 3. State Label (integer-encoded, meaning not further specified for confidentality reasons)
 
+License {
+  font-size: 75;
+}
+The dataset created for the research located in the directory data are licensed under a Creative Commons Attribution 4.0 International License (CC-BY-4.0).
