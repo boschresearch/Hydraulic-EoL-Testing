@@ -18,9 +18,11 @@ Each sample contains a time-series with 11 channels (data collected at 100 Hz fr
 2. Values of Sensors 1-9 (standard-score normalized, no units for confidentality reasons)
 3. State Label (integer-encoded, meaning not further specified for confidentality reasons)
 
+<pre>
 The dataset was published in the context of one of our works:
 Gaugel, S.; Reichert, M.: PrecTime: A Deep Learning Architecture for Exact Time Series Segmentation and its Application to Hydraulic End-Of-Line Testing, 2022
 The subset referenced in the paper is found in the following path: Data/Generation A/DC
+</pre>
 
 # License 
 The dataset created for the research located in the directory data are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0) .
