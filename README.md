@@ -8,7 +8,7 @@ Data/
     control type/              Coresponding pump control type. We have 3 different control types (Direct Control (DC), Proportional Control (PC), Speed-based Control (SC) )
       version/                 Coresponding version of specific control type. Only relevant for Generation A DC-pumps, where we have 3 version (V35, V36, V38)
         zip-file:              zip file containing all samples of the specific version. One Sample has the following name format:
-                               [Generation]+"_"+[Control Type]+[Version]+"_"+[ID]+".csv"<br />
+                               "Pump_"+[Generation]+"_"+[Control Type]+[Version]+"_"+[ID]+".csv"<br />
 </pre>:                                    
                                     
  
