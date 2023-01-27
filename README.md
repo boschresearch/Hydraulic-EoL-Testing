@@ -1,8 +1,8 @@
 # Hydraulic-EoL-Testing
 Multivariate Time Series Data usable for Time Series Segmentation and Time Series Classification. Each sample represents the multi-phased End-of-Line-Testing cycle of one hydraulic pump (evolution of 9 sensors). For confidentality reasons, the data were normalized (standard-score) and the sensor names anonymized.
 
-<pre>
 The dataset was published in the context of one of our works:
+<pre>
 Gaugel, S.; Reichert, M.: PrecTime: PrecTime: A Deep Learning Architecture for Precise Time Series Segmentation in  Industrial Manufacturing Operations, 2023
 </pre>:  
 The subset referenced in the paper is found in the following path: Data/Generation A/DC
