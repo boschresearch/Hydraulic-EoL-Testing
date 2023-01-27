@@ -4,8 +4,7 @@ Multivariate Time Series Data usable for Time Series Segmentation and Time Serie
 The dataset was published in the context of one of our research articles:
 <pre>
 Gaugel, S.; Reichert, M.: PrecTime: A Deep Learning Architecture for Precise Time Series Segmentation in  Industrial Manufacturing Operations, 2023
-</pre>:  
-The subset referenced in the paper is found in the following path: Data/Generation A/DC
+</pre>The subset referenced in the paper is found in the following path: Data/Generation A/DC
 
 
 Folder Structure:
