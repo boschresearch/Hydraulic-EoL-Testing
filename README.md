@@ -33,7 +33,7 @@ V36: Data/Generation A/DC/V36
 V38: Data/Generation A/DC/V38
 </pre>
 Preprint found at
-https://www.academia.edu/96320618/PrecTime_A_Deep_Learning_Architecture_for_Precise_Time_Series_Segmentation_in_Industrial_Manufacturing_Operations
+https://www.academia.edu/96528691/PrecTime_A_Deep_Learning_Architecture_for_Precise_Time_Series_Segmentation_in_Industrial_Manufacturing_Operations
 
 
 ### Publication 2: "Industrial Transfer Learning for Multivariate Time Series Segmentation: A study on the example of hydraulic pump testing cycles" (2023)
