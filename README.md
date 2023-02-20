@@ -51,7 +51,7 @@ PC: Data/Generation A/PC/V23
 Authors: Gaugel, S.; Wu, B.; Anand, A.; Reichert, M.<br/>
 The subset referenced in the paper is found in the following paths: <br/>
 <pre>
-Generation B: Data/Generation B/DC/V03
+Generation B: Data/Generation B/DC/
 </pre>
 
 
