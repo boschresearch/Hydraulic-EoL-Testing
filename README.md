@@ -49,7 +49,7 @@ PC: Data/Generation A/PC/V23
 
 ### Publication 3: "Supervised Time Series Segmentation as Enabler of Multi-Phased Time Series Classification: A Study on Hydraulic End-of-Line Testing" (2023)
 Authors: Gaugel, S.; Wu, B.; Anand, A.; Reichert, M.<br/>
-The subsets referenced in the paper are found in the following paths: <br/>
+The subset referenced in the paper is found in the following paths: <br/>
 <pre>
 Generation B: Data/Generation B/DC/V03
 </pre>
