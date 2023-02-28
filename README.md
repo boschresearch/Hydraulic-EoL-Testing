@@ -58,7 +58,7 @@ The subset referenced in the paper is found in the following paths: <br/>
 <pre>
 Generation B: Data/Generation B/DC/
 </pre>
-
+Preprint found in this repository (file: "Preprint TSS_TSC.pdf"
 
 # License 
 The dataset created for the research located in the directory data are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0) .
