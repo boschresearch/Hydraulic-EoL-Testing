@@ -37,8 +37,8 @@ V35: Data/Generation A/DC/V35
 V36: Data/Generation A/DC/V36
 V38: Data/Generation A/DC/V38
 </pre>
-Preprint found at
-https://www.academia.edu/96528691/PrecTime_A_Deep_Learning_Architecture_for_Precise_Time_Series_Segmentation_in_Industrial_Manufacturing_Operations
+Paper found at
+https://www.sciencedirect.com/science/article/pii/S0952197623002622
 
 
 ### Publication 2: "Industrial Transfer Learning for Multivariate Time Series Segmentation: A study on the example of hydraulic pump testing cycles" (2023)
@@ -51,6 +51,8 @@ DC-V38: Data/Generation A/DC/V38
 SC: Data/Generation A/SC/V12
 PC: Data/Generation A/PC/V23
 </pre>
+Preprint found at
+https://www.preprints.org/manuscript/202303.0026/v1
 
 ### Publication 3: "Supervised Time Series Segmentation as Enabler of Multi-Phased Time Series Classification: A Study on Hydraulic End-of-Line Testing" (2023)
 Authors: Gaugel, S.; Wu, B.; Anand, A.; Reichert, M.<br/>
