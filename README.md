@@ -52,7 +52,7 @@ SC: Data/Generation A/SC/V12
 PC: Data/Generation A/PC/V23
 </pre>
 Preprint found at
-https://www.preprints.org/manuscript/202303.0026/v1
+https://mdpi-res.com/d_attachment/sensors/sensors-23-03636/article_deploy/sensors-23-03636.pdf?version=1680246170
 
 ### Publication 3: "Supervised Time Series Segmentation as Enabler of Multi-Phased Time Series Classification: A Study on Hydraulic End-of-Line Testing" (2023)
 Authors: Gaugel, S.; Wu, B.; Anand, A.; Reichert, M.<br/>
