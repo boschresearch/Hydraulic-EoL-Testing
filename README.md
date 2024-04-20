@@ -63,13 +63,13 @@ Generation B: Data/Generation B/DC/
 Publication found at https://ieeexplore.ieee.org/document/10218185
 
 
-### Publication 4: "Data-Driven Multi-objective Optimization of Industrial End-of-Line Testing Cycles via Wrapper Feature Selection" (2023)
+### Publication 4: "Data-Driven Multi-objective Optimization of Industrial End-of-Line Testing Cycles via Wrapper Feature Selection" (2024)
 Authors: Gaugel, S.; Reichert, M.<br/>
 The subset referenced in the paper is found in the following paths: <br/>
 <pre>
 Generation B: Data/Generation B/DC/
 </pre>
-Preprint found in this repository (file: cycle_optimization.pdf)
+Publication found at https://www.sciencedirect.com/science/article/abs/pii/S175558172400004X
 
 # License 
 The dataset created for the research located in the directory data are licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC-BY-4.0) .
